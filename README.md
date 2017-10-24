@@ -4,7 +4,7 @@ BiG-CZ/ODM2 User Workshop
 
 ## "tutorial content"
 
-Jupyter notebooks, data files used in tutorials, other code, etc, will be hosted on the repo https://github.com/BiG-CZ/wshp2017_tutorial_content. "a repo that has the initial environment that each user will have within their jupyterhub environment"
+Jupyter notebooks, data files used in tutorials, other code, etc, will be hosted on the repo https://github.com/BiG-CZ/wshp2017_tutorial_content, "a repo that has the initial environment that each user will have within their jupyterhub environment". See the issues created on that repo for info on where we're at vis a vis JupyterHub and tutorial contents, problems we're addressing, etc
 
 
 ## JupyterHub test setup
