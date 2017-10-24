@@ -2,8 +2,20 @@
 
 BiG-CZ/ODM2 User Workshop
 
+## "tutorial content"
 
-# ODM2 Jupyter Notebooks
+Jupyter notebooks, data files used in tutorials, other code, etc, will be hosted on the repo https://github.com/BiG-CZ/wshp2017_tutorial_content. "a repo that has the initial environment that each user will have within their jupyterhub environment"
+
+
+## JupyterHub test setup
+
+- **TO-DO:** "Do you know who has control over the http://bigcz.org domain name? I'm trying to figure out the domain for the jupyterhub. I was thinking http://jupyterhub.bigcz.org?" FOLLOW UP WITH ANTHONY.
+- From Emilio to Don: will need instructions you have about how to upload notebooks, data, etc (I have some memory of the shell git clone process used in Geohackweek).
+- More details, for now, at https://github.com/BiG-CZ/wshp2017_tutorial_content/issues/3
+- [JupyterHub tutorial from Geohackweek 2017](https://geohackweek.github.io/Introductory/05-Jupyter-tutorial/)
+
+
+## ODM2 Jupyter Notebooks
 
 From May 2017 presentation/demo. Hosted on HydroShare, uploaded here as a temporary convenience
 - [ODM2 IPython Notebook Examples](https://www.hydroshare.org/resource/ff79d7926f6040c9acd004636b4e4d38/)
