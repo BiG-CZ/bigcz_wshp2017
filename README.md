@@ -1,4 +1,4 @@
-# bigcz_wkshp2017
+# bigcz_wshp2017
 
 BiG-CZ/ODM2 User Workshop
 
