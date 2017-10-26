@@ -28,3 +28,4 @@ From May 2017 presentation/demo. Hosted on HydroShare, uploaded here as a tempor
 
 - [Ben Crary's](https://github.com/benjamincrary) Jupyter Notebook in R, that uses HISCentral & WOFpy, via the WaterML R package: [EnviroDIY_Rnotebook.ipynb](https://github.com/BiG-CZ/BiG-CZ-Toolbox/blob/master/ipynotebooks/EnviroDIY_Rnotebook.ipynb)
 - [Dylan Beaudette's (et al)](https://github.com/dylanbeaudette) "NCSS-Tech" [R packages for soil data](http://ncss-tech.github.io/AQP/), including Algorithms for Quantitative Pedology (`AQP`) and `soilDB`
+- Look into using [feathers](https://github.com/wesm/feather) as common data-frame binary storage format for two-way exchange/interoperability between R and Python-Pandas
