@@ -9,10 +9,10 @@ Jupyter notebooks, data files used in tutorials, other code, etc, will be hosted
 
 ## JupyterHub test setup
 
-- **TO-DO:** "Do you know who has control over the http://bigcz.org domain name? I'm trying to figure out the domain for the jupyterhub. I was thinking http://jupyterhub.bigcz.org?" FOLLOW UP WITH ANTHONY.
-- From Emilio to Don: will need instructions you have about how to upload notebooks, data, etc (I have some memory of the shell git clone process used in Geohackweek).
+- http://jupyterhub.bigcz.org
 - More details, for now, at https://github.com/BiG-CZ/wshp2017_tutorial_content/issues/3
 - [JupyterHub tutorial from Geohackweek 2017](https://geohackweek.github.io/Introductory/05-Jupyter-tutorial/)
+- https://jupyterhub.readthedocs.io
 
 
 ## ODM2 Jupyter Notebooks
