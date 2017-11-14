@@ -24,9 +24,11 @@ We provide information, links and other helpful content on separate pages for ea
 
 For this workshop, participants will only need a web-browser and a GitHub account.
 
-Hands-on activities in Python and R will be provided a Jupyter notebooks dynamically running code in a customized, personal environment on JypyterHub. All required notebook files, data files, other code, etc, will be hosted on a second repository:
+Hands-on activities in Python and R will be provided a Jupyter notebooks dynamically running code in a customized, personal environment on  [JupyterHub](https://jupyterhub.readthedocs.io). All required notebook files, supporting code, data files, and Conda environment files will be cloned from on a second repository:
+
 * https://github.com/BiG-CZ/wshp2017_tutorial_content
-* Note for BiG CZ Team: See the issues created on that repo for info on where we're at vis a vis JupyterHub and tutorial contents, problems we're addressing, etc
+* This repository is intended for `git` cloning into your personal JupyterHub user space or your local computer.
+* *Note for BiG CZ Team: See the issues created on that repo for info on where we're at vis a vis JupyterHub and tutorial contents, problems we're addressing, etc*
 
 All other hands-on activities will use web applications.
 
