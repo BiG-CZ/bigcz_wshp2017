@@ -29,3 +29,10 @@ From May 2017 presentation/demo. Hosted on HydroShare, uploaded here as a tempor
 - [Ben Crary's](https://github.com/benjamincrary) Jupyter Notebook in R, that uses HISCentral & WOFpy, via the WaterML R package: [EnviroDIY_Rnotebook.ipynb](https://github.com/BiG-CZ/BiG-CZ-Toolbox/blob/master/ipynotebooks/EnviroDIY_Rnotebook.ipynb)
 - [Dylan Beaudette's (et al)](https://github.com/dylanbeaudette) "NCSS-Tech" [R packages for soil data](http://ncss-tech.github.io/AQP/), including Algorithms for Quantitative Pedology (`AQP`) and `soilDB`
 - Look into using [Feather](https://github.com/wesm/feather) as common data-frame binary storage format for two-way exchange/interoperability between R and Python-Pandas (see also this [2016 article about feathers](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)).
+
+## Introductions to git and conda
+
+- Nice and tested resources from the [UW GeoHackweek](https://geohackweek.github.io) (Don had a big role in creating these):
+  - [git tutorial](https://geohackweek.github.io/Introductory/03-git-tutorial/)
+  - [Conda installation](https://geohackweek.github.io/preliminary/01-conda-tutorial/)
+  - [How to use conda](https://geohackweek.github.io/Introductory/01-conda-tutorial/)
