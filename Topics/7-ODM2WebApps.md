@@ -8,6 +8,7 @@ The [EnviroDIY Water Quality Data Portal](http://data.envirodiy.org/) is a Pytho
   * Implements a front end website for users to register sites/data collection devices, list the observed variables, and create the metadata needed to enable data streaming.
 * WOFpy: http://data.envirodiy.org/wofpy/
 * Time Series Analyst: http://data.envirodiy.org/tsa/
+* R ShinyApp: https://limno.shinyapps.io/envirodiy_crossroads/
 
 ### Other ODM2-based Web Apps
 * Specimen Data Viewer: https://github.com/ODM2/SpecimenDataViewer
