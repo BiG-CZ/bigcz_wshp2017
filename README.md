@@ -9,7 +9,7 @@ We provide information, links and other helpful content on separate pages for ea
 1. [Introduction to BiG-CZ & ODM2](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/1-IntroBiGCZ-ODM2.md)
 2. [Demo of ODM2 on Jupyter Hub](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/2-DemoODM2JupyterHub.md)
 3. [More on ODM2 Controlled Vocabularies](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/3-ODM2ControlledVocabularies.md)
-4. [Installing ODM2 from Conda](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/4-IntallingODM2Conda.md)
+4. [Installing ODM2 from Conda](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/4-InstallingODM2Conda.md)
 5. [ODM2 Datasets, YODA file & Spreadsheet Ingest](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/5-ODM2DatasetsYODAspreadsheets.md)
 6. [Demo of ODMToolsPython Desktop Application](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/6-DemoODMToolsDesktopApp.md)
 7. [Tour of ODM2 Web Applications](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/7-ODM2WebApps.md)
