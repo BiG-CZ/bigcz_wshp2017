@@ -5,7 +5,8 @@ Presenting: Anthony & Emilio
 * https://portal.bigcz.org/
 
 ### WikiWatershed Geoprocessing API
-* https://app.wikiwatershed.org/api/docs/
+* WikiWatershed: https://app.wikiwatershed.org/
+* WikiWatershed API: https://app.wikiwatershed.org/api/docs/
 
 
 
