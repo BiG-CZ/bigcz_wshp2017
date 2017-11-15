@@ -1,4 +1,4 @@
-# 2017 BiG-CZ / ODM2 Hands-On Workshop,
+# 2017 BiG-CZ / ODM2 Hands-On Workshop
 November 15-16, 2017 at UC Riverside, CA.
 
 [2017-BiGCZ-WorkshopAgenda](https://docs.google.com/document/d/1yZImXnbeH0yPvxq0iLbl8Oju_z3Sr39nTjQchOQ65jY/edit#) Google Doc.
