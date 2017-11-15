@@ -11,6 +11,7 @@ The [EnviroDIY Water Quality Data Portal](http://data.envirodiy.org/) is a Pytho
 * R ShinyApp: https://limno.shinyapps.io/envirodiy_crossroads/
 
 ### Other ODM2-based Web Apps
+* HydroShare time series in ODM2
 * Specimen Data Viewer: https://github.com/ODM2/SpecimenDataViewer
 * ODM2Admin: https://github.com/ODM2/ODM2-Admin
   * More tomorrow with topic 10
