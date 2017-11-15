@@ -26,7 +26,7 @@ We envision numerous future [YODA Profiles](https://github.com/ODM2/YODA-File/bl
 
 ### YODA-Tools Desktop App for Spreadsheet Ingest
 
-The [YODA Tools](https://github.com/ODM2/YodaTools) library, which is built upon the [ODM2PythonAPI](https://github.com/ODM2/ODM2PythonAPI), was developed to ingest datasets from our [YODA Excel Templates](https://github.com/ODM2/YODA-File/tree/master/excel_templates) and load these datasets into ODM2. [YODA Tools](https://github.com/ODM2/YodaTools) can also create YODA Files from these Excel Templates or from an operational instance of an ODM2 database, or read YODA Files directly into an ODM2 database.
+The [YODA Tools](https://github.com/ODM2/YODA-Tools) library, which is built upon the [ODM2PythonAPI](https://github.com/ODM2/ODM2PythonAPI), was developed to ingest datasets from our [YODA Excel Templates](https://github.com/ODM2/YODA-File/tree/master/excel_templates) and load these datasets into ODM2. [YODA Tools](https://github.com/ODM2/YODA-Tools) can also create YODA Files from these Excel Templates or from an operational instance of an ODM2 database, or read YODA Files directly into an ODM2 database.
 
 YODA Tools has a simple desktop application, in addition to providing all functions in Python.
 
