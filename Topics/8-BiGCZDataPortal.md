@@ -2,13 +2,14 @@
 Presenting: Anthony & Emilio
 
 ### Live demo of BiG-CZ Data Portal
-* https://portal.bigcz.org/
+* Web app: https://portal.bigcz.org/
+* Info: https://bigcz.org/portal/
+* Repo: https://github.com/WikiWatershed/model-my-watershed/issues?utf8=✓&q=is%3Aissue%20label%3ABigCZ%20
 
 ### WikiWatershed Geoprocessing API
 * WikiWatershed: https://app.wikiwatershed.org/
 * WikiWatershed API: https://app.wikiwatershed.org/api/docs/
-
-
+* Repos: https://github.com/WikiWatershed
 
 
 
