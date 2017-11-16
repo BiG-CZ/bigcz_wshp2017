@@ -7,6 +7,11 @@ Presenting: Emilio & Dylan Beaudette
 * Repos: https://github.com/ncss-tech
 
 ### Jupyter Notebooks in Python & R leveraging:
+* Run Jupyter Notebook in R
+  * Download this Conda environment file: https://github.com/BiG-CZ/wshp2017_tutorial_content/blob/master/renvironment.yml
+  * Create a new Conda environment, with an R kernel, following the instructions here (but using the "renvironment.yml" file you just downloaded):
+    * https://github.com/BiG-CZ/wshp2017_tutorial_content/blob/master/install-conda.md#creating-the-odm2client-conda-environment
+  * Run/view this notebook: https://github.com/BiG-CZ/wshp2017_tutorial_content/blob/master/notebooks/R_WaterMLservices_EnviroDIY.ipynb
 * BiG-CZ Portal catalog search JSON
 * Geoprocessing API’s (https://staging.app.wikiwatershed.org/api/docs/)
 
