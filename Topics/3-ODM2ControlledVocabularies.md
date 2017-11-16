@@ -8,6 +8,7 @@ Presenting: Anthony &  Jeff
 2. Enable Class-Subclass Capabilities
   * We developed new "Types" CV lists to better enable Object-Relational-Mapping (ORM) between relational ODM2 databases and software written in object-oriented programing languages.
 
+Deployed CV system: http://vocabulary.odm2.org/ 
 
 ### We created the [ODM2 Controlled Vocabulary System](http://vocabulary.odm2.org/) to:
 
@@ -16,7 +17,7 @@ Presenting: Anthony &  Jeff
 2. Enable community contributions
   * such as suggesting, editing and moderating CV terms.
 
-See http://vocabulary.odm2.org/ 
+Repo for SKOS/community CV system: https://github.com/ODM2/ODM2ControlledVocabularies
 
 ### Additional Information on ODM2 Vocabularies
 * [ODM2 Vocabularies](https://drive.google.com/open?id=0B3v0QxIOuR_nQ0k4Zm5BNjhlbDQ) Google Drive Folder
