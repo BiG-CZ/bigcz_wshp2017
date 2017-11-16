@@ -21,7 +21,8 @@ See http://vocabulary.odm2.org/
 ### Additional Information on ODM2 Vocabularies
 * [ODM2 Vocabularies](https://drive.google.com/open?id=0B3v0QxIOuR_nQ0k4Zm5BNjhlbDQ) Google Drive Folder
   * Contains crosswalks and more detailed provenence information
-* [EnviroVariableNames-ODM2TeamIdeas](https://docs.google.com/a/stroudcenter.org/document/d/1BTOIAphE2bBGC1yOg-qe-2x7HKdeEAMYWHKvJgQUil8/edit?usp=sharing) Google Doc, draft white paper on how to map to other variables and parameter codes.
+* [EnviroVariableNames-ODM2TeamIdeas](https://docs.google.com/a/stroudcenter.org/document/d/1BTOIAphE2bBGC1yOg-qe-2x7HKdeEAMYWHKvJgQUil8/edit?usp=sharing) Google Doc
+  * A draft white paper on how to map to other variables and parameter codes to ODM2, and use ODM2 as a crosswalking system between other systems.
 * GitHub Issue: Resolve inconsistencies between SamplingFeatureTypeCV & SiteTypeCV
   * https://github.com/ODM2/ODM2/issues/142
 
