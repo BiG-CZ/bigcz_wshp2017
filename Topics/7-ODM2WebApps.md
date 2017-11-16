@@ -15,6 +15,8 @@ The [EnviroDIY Water Quality Data Portal](http://data.envirodiy.org/) is a Pytho
 * Specimen Data Viewer: https://github.com/ODM2/SpecimenDataViewer
 * ODM2Admin: https://github.com/ODM2/ODM2-Admin
   * More tomorrow with topic 10
+* ODM2 servers, databases and service resources available for demoing and testing
+  * https://github.com/BiG-CZ/bigcz_wshp2017/issues/1
 
 
 #### [Back to Workshop main page](https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/README.md)
