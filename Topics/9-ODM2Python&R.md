@@ -1,8 +1,8 @@
 # Using ODM2 with Python & R to Integrate Data
 Presenting: Emilio & Dylan Beaudette
 
-### USDA-NRCS Soil Survey Data: sources, usage notes, and analysis (Dylan)
-* Slides: ?
+### USDA-NRCS Soil Survey Data: sources, usage notes, and analysis ([Dylan](http://dylanbeaudette.github.io/static/soil-data-sources.html))
+* Slides: http://ncss-tech.github.io/AQP/presentations/2017-CZO-UCR-data-sources-aqp/presentation.html
 * Info: http://ncss-tech.github.io/AQP/
 * Repos: https://github.com/ncss-tech
 
